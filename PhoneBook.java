@@ -7,7 +7,7 @@ class Contact {
     String firstName;
     String lastName;
     String institution;
-    
+    string phoneNumber;
 
     Contact(String firstName, String lastName, String institution, String phoneNumber) {
         this.firstName = firstName;
