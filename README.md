@@ -6,14 +6,14 @@ To solve this challenge, we implemented a Java program with the following compon
 **Contact Class:**
 - Represents individual contacts with attributes: first name, last name, institution, and phone number.
 - Contains a toString() method for formatted display of contact information.
-*Detail:
+Detail:
 -The Contact class is defined with the attributes firstName, lastName, institution, and phoneNumber.
 -The constructor initializes these attributes, and the toString() method provides a formatted string representation of a contact.
 
 **PhoneBook Class:**
 - Contains the main logic for managing and interacting with the list of contacts.
 - Initializes contacts and allows sorting and displaying them based on user input.
-*Detail
+Detail
 - Contains a static ArrayList<Contact> to store the list of contacts.
 - The main method initializes the contacts and provides a user interface for sorting and displaying contacts.
 - The initializeContacts method populates the list with sample contacts.
