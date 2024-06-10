@@ -8,8 +8,8 @@ To solve this challenge, we implemented a Java program with the following compon
 - Contains a toString() method for formatted display of contact information.
 
 Detail:
--The Contact class is defined with the attributes firstName, lastName, institution, and phoneNumber.
--The constructor initializes these attributes, and the toString() method provides a formatted string representation of a contact.
+- The Contact class is defined with the attributes firstName, lastName, institution, and phoneNumber.
+- The constructor initializes these attributes, and the toString() method provides a formatted string representation of a contact.
 
 **PhoneBook Class:**
 - Contains the main logic for managing and interacting with the list of contacts.
